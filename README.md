@@ -1,3 +1,4 @@
-# VBA-using-Excel
-The repository contains various Visual Basic Application created using Excel
-  1. To Do List
+# Excel
+The repository contains various exercises of Excel
+  1. Basic Excel Exercise
+  2. To Do List
